@@ -12,7 +12,7 @@ Dataset Analysis is defined as manipulating or processing unstructured data or r
 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸:
 ● SQL Programming language
 
-● Postgre SQL 
+   ● Postgre SQL 
 
 𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀:
 ● Understanding the project and how to use Postgre.
