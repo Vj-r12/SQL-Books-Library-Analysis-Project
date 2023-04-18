@@ -1,4 +1,4 @@
-Complete SQL Project for Books Library analysis
+Complete SQL Project for Library Analysis
 
 
 SQL Projects for Data Analysis using PostgreSQL
