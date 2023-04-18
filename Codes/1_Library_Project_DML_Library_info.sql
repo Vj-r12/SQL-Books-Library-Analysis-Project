@@ -1,0 +1,135 @@
+--PROMPT INSERTING INTO LIBRARY_INFO  
+
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB1','Steve Jobs','Walter Issacson','Biography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB2','Discovery of India','Jawaharlal Nehru','History');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB3','My Experiments with Truth','Mahatma Gandhi','Autobiography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB4','Object Oriented Programming with C++','E Balagurusamy','Education');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB5','Thinking with type','Ellen Lupton','Arts');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB6','The Photographers','Lindsay Adler','Photography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB7','Think and Grow','Napoleon Hill','Economics');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB8','The Fifth Discipline : The Art','Peter M.Senge','Management');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB9','A Theory of Justice','John Rawls','Law');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB10','Eat to Live','Joel Fuhrman','Health');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB11','City of Heavenly Fire','Cassandra Clare','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB12','Da Vinci Code','Dan Brown','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB13','War and Peace','Leo Tolstoy','Philosophical fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB14','Python For All','John Shovic','Education');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB15','Automate The Boring Stuff With Python','Al Sweigart','Education');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB16','Wings Of Fire','APJ Abdul Kalam','Autobiography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB17','Ikigai','Hector Garcia','Personal Development');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB18','Who Will Cry When You Will Die','Robin Sharma','Personal Development');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB19','Rich Dad Poor Dad','Robert T. Kiyosaki','Business');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB20','Immortals of Meluha','Amish Tirpathi','High Fantasy');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB21','A Brief History Of Time','Stephen Hawking','SPACE');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB22','I Know Why The Cage Bird Sings','Maya Anguelo','Story');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB23','Lord Of Files','William Golding','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB24','Loara Dune','R. D Blackmore','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB25','Jamacia Inn','Daphne','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB26','Kidnapped','Robert Louis','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB27','Treasure Island','Robert Louis','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB28','The Call Of Wild','Jack London','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB29','Charlottes Web','E. B White','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB30','The Wind In Willows','Kenneth Grahame','Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB31','Being and Time','Martin Heldegger','Philosophy');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB32','The Republic','Rocha Pereia','Philosophy');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB33','Critique For Pure Reason','Paul Guyer','Philosophy');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB34','The Prince','Rufus Godwin','Philosophy');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB35','Ethics','Stuart Hampshire','Philosophy');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB36','Long Walk To Freedom','Nelson Mandela','Autobiography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB37','The Dairy Of Young Girl','Anne Frank','Autobiography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB38','Mark Twain','Mark Twain','Autobiography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB39','Mein Kampf','Adolf Hitler','Autobiography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB40','Freakonomics','Steveb D.Levit','Economics');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB41','Thinking Fast and Slow','Daniel Kahneman','Economics');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB42','Tell You About Capitalism','HA-Joon Chang','Economics');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB43','Animal Spirits','Akerlof and Shiller','Economics');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB44','The Black Swan','Nassim Nicholas Taleb','Economics');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB45','1984','George Orwell','Story');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB46','The Lord Of Wings','J.R.R.Tolken','Story');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB47','Kite Runner','Khaled Hosseini','Story');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB48','Harry Potter','J.K.Rowling','Story');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB49','The Book Theif','Markus Zusak','Story');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB50','History Of 20th Century','Martin Gilbert','History');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB51','Guns,Germs,and Steel','Jared Daimond','History');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB52','A World lit Only by Fire','William Manchestar','History');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB53','The Crusades','Thomas Asbridge','History');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB54','Over The Edge Of The World','Laurence','History');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB55','A Beautiful Mind','Sylvia Nasar','Biography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB56','The Enigma','Andrew Hodges','Biography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB57','Alexander Hamilton','Ron Chernow','Biography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB58','Barracoon','Zora Neale Hurston','Biography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB59','CHURCHILL : A Life','MArtin Glibert','Biography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB60','A Tale of Two Cities','Charles Dickens','Historical novel');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB61','Les MisÃ©rables','Victor Hugo','Historical fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB62','To Kill a Mockingbird','Harper Lee','Classic Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB63','The Catcher in the Rye','J.D. Salinger','Young Adult Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB64','The Great Gatsby','F. Scott Fitzgerald','Classic Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB65','The Hunger Games','Suzanne Collins','Young Adult Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB66','The Da Vinci Code','Dan Brown','Thriller/Mystery Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB67','The Lord of the Rings','J.R.R. Tolkien','Fantasy Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB68','Pride and Prejudice','Jane Austen','Classic Fiction/Romance');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB69','Harry Potter and the Philosophers Stone','J.K. Rowling','Fantasy Fiction/Young Adult Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB70','The Hitchhikers Guide to the Galaxy','Douglas Adams','Science Fiction/Humor');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB71','The Girl with the Dragon Tattoo','Stieg Larsson','Thriller/Mystery Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB72','The Kite Runner','Khaled Hosseini','Historical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB73','1984','George Orwell','Classic Fiction/Dystopian Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB74','The Hobbit','J.R.R. Tolkien','Fantasy Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB75','The Adventures of Sherlock Holmes','Arthur Conan Doyle','Detective Fiction/Short Stories');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB76','The Road','Cormac Mccarthy','Post-Apocalyptic Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB77','The Handmaids Tale','Margaret Atwood','Dystopian Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB78','The Picture of Dorian Gray','Oscar Wilde','Classic Fiction/Horror');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB79','The Chronicles of Narnia','C.S. Lewis','Fantasy Fiction/Childrens Literature');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB80','The Color Purple','Alice Walker','Historical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB81','One Hundred Years of Solitude','Gabriel Garcia Marquez','Magic Realism/Literary Fiction.');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB82','The Catch-22','Joseph Heller','Satirical Fiction/War Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB83','The Bell Jar','Sylvia Plath','Autobiographical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB84','The Alchemist','Paulo Coelho','Inspirational Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB85','The Secret History','Donna Tartt','Psychological Thriller Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB86','The Count of Monte Cristo','Alexandre Dumas','Classic Fiction/Adventure');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB87','The Picture of Dorian Gray','Oscar Wilde','Classic Fiction/Horror');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB88','The Shining','Stephen King','Horror Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB89','The Handmaids Tale','Margaret Atwood','Dystopian Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB90','The Wind Up Bird Chronicle','Haruki Murakami','Magical Realism Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB91','Slaughterhouse Five','Kurt Vonnegut','Anti War Fiction Science Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB92','The Road Less Traveled','M Scott Peck','Self Help Personal Development');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB93','The Color Purple','Alice Walker','Historical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB94','The Fault in Our Stars','John Green','Young Adult Fiction/Romance');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB95','The Adventures of Tom Sawyer','Mark Twain','Classic Fiction/Childrens Literature');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB96','The Name of the Wind','Patrick Rothfuss','Fantasy Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB97','The Stand','Stephen King','Post-Apocalyptic Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB98','The Hitchhikers Guide to the Galaxy','Douglas Adams','Science Fiction/Humor');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB99','The Talented Mr. Ripley','Patricia Highsmith','Psychological Thriller Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB100','The Stranger','Albert Camus','Existential Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB101','The Picture of Dorian Gray','Oscar Wilde','Classic Fiction Horror');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB102','The Sun Also Rises','Ernest Hemingway','Classic Fiction Lost Generation');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB103','The God of Small Things','Arundhati Roy','Historical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB104','The Giver','Lois Lowry','Young Adult Fiction/Dystopian Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB105','The Silence of the Lambs','Thomas Harris','Thriller Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB106','The Metamorphosis','Franz Kafka','Surrealist Fiction/Short Stories');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB107','The Spy Who Came in from the Cold','John Le Carré','Spy Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB108','The Help','Kathryn Stockett','Historical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB109','The Immortal Life of Henrietta Lacks','Rebecca Skloot','Non-Fiction/Biography');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB110','The Bell Jar','Sylvia Plath','Autobiographical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB111','The Girl on the Train','Paula Hawkins','Thriller/Mystery Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB112','The Inferno','Dante Alighieri','Classic Fiction/Poetry');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB113','The Martian','Andy Weir','Science Fiction/Adventure');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB114','The Old Man and the Sea','Ernest Hemingway','Classic Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB115','The Time Travelers Wife','Audrey Niffenegger','Science Fiction/Romance');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB116','The Adventures of Sherlock Holmes','Arthur Conan Doyle','Detective Fiction/Short Stories');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB117','The Golden Compass','Philip Pullman','Fantasy Fiction/Childrens Literature');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB118','The Nightingale','Kristin Hannah','Historical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB119','The Unbearable Lightness of Being','Milan Kundera','Philosophical Fiction');
+Insert into Library_info (Books_Id,Book_Title,Book_Author,Book_Category) values ('LB120','The Cat in the Hat','Dr Seuss','Childrens Literature');
+
+--UPDATE INTO LIBRARY_INFO
+
+update library_info set Book_title = 'A Better India: A Better World',
+Book_author = 'Narayana Murthy',Book_Category = 'Society' where Books_Id = 'LB1';
+
+--DELETE DATA FROM LIBRARY_INFO
+
+delete from library_info where Books_Id = 'LB120';
+
+--SELECT COLUMN FROM LIBRARY_INFO
+
+Select Book_title from library_info;
