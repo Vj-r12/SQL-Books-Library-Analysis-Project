@@ -10,10 +10,12 @@ In this SQL Project for Data Analysis, We will learn to efficiently leverage var
 Dataset Analysis is defined as manipulating or processing unstructured data or raw data to draw valuable insights and conclusions that will help derive critical decisions that will add some business value. The dataset analysis process is followed by organizing the dataset, transforming the dataset, visualizing the dataset, and finally modeling the dataset to derive predictions for solving the business problems, making informed decisions, and effectively planning for the future.
 
 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸:
-● SQL Programming language ● Postgre SQL 
+● SQL Programming language 
 
 𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀:
 ● Understanding the project and how to use Postgre.
+
+
 ● Understanding the basics of data analysis, SQL commands, and their application
 ● Working on DML commands and listing library details based on complex nested conditions.
 ● Creating tables and Inserting data into them.
