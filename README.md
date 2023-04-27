@@ -1,7 +1,7 @@
 Complete SQL Project for Library Analysis
 
 
-SQL Projects for Data Analysis using PostgreSQL
+SQL Project for Data Analysis using PostgreSQL
 
 AIM:
 In this SQL Project for Data Analysis, We will learn to efficiently leverage various analytical features and functions accessible through SQL in Postgre.
