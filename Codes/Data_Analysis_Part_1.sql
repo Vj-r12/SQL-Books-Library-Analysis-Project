@@ -40,13 +40,33 @@ Insert into student_backup select * from student_info;
 
 
 
-
 Select * from Library_info;					   
 Select * from Student_info;	
 
 --Find unique Book_Category names.
 
 Select Distinct(Book_category) from library_info;
+
+
+
+/***************     STRING FUNCTIONS     ***************/
+
+
+Select * from Library_info;					   
+Select * from Student_info;	
+
+--Find the book_id length. 
+
+Select book_id,length(book_id) from Library_info;
+
+--Replace the book name 'Thinking with type' to 'I Love Typography'.
+
+Select book_title,replace(book_title,'Thinking with type','I Love Typography') as new_book_title
+from library_info;
+
+--Display the code of student id.
+
+Select Student_id,substring(Student_id,1,3) from student_info;
  
 --Arrange the Book_title names in Upper case.
 
