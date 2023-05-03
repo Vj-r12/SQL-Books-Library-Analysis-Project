@@ -1,0 +1,135 @@
+--PROMPT INSERTING INTO BOOKS_ISSUED_INFO
+
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID1','LB1','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID2','LB2','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID3','LB3','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID4','LB4','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID5','LB5','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID6','LB6','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID7','LB7','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID8','LB8','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID9','LB9','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID10','LB10','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID11','LB11','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID12','LB12','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID13','LB13','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID14','LB14','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID15','LB15','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID16','LB16','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID17','LB17','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID18','LB18','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID19','LB19','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID20','LB20','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID21','LB21','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID22','LB22','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID23','LB23','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID24','LB24','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID25','LB25','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID26','LB26','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID27','LB27','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID28','LB28','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID29','LB29','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID30','LB30','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID31','LB31','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID32','LB32','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID33','LB33','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID34','LB34','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID35','LB35','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID36','LB36','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID37','LB37','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID38','LB38','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID39','LB39','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID40','LB40','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID41','LB41','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID42','LB42','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID43','LB43','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID44','LB44','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID45','LB45','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID46','LB46','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID47','LB47','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID48','LB48','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID49','LB49','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID50','LB50','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID51','LB51','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID52','LB52','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID53','LB53','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID54','LB54','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID55','LB55','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID56','LB56','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID57','LB57','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID58','LB58','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID59','LB59','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID60','LB60','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID61','LB61','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID62','LB62','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID63','LB63','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID64','LB64','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID65','LB65','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID66','LB66','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID67','LB67','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID68','LB68','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID69','LB69','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID70','LB70','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID71','LB71','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID72','LB72','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID73','LB73','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID74','LB74','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID75','LB75','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID76','LB76','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID77','LB77','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID78','LB78','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID79','LB79','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID80','LB80','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID81','LB81','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID82','LB82','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID83','LB83','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID84','LB84','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID85','LB85','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID86','LB86','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID87','LB87','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID88','LB88','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID89','LB89','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID90','LB90','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID91','LB91','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID92','LB92','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID93','LB93','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID94','LB94','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID95','LB95','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID96','LB96','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID97','LB97','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID98','LB98','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID99','LB99','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID100','LB100','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID101','LB101','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID102','LB102','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID103','LB103','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID104','LB104','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID105','LB105','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID106','LB106','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID107','LB107','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID108','LB108','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID109','LB109','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID110','LB110','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID111','LB111','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID112','LB112','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID113','LB113','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID114','LB114','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID115','LB115','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID116','LB116','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID117','LB117','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID118','LB118','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID119','LB119','Available','Issued');
+Insert into Books_issued_info (Student_Id,Book_Id,Status,Issued_Status) values ('SID120','LB120','Available','Issued');
+
+
+--UPDATE INTO BOOKS_ISSUED_INFO
+
+Update Books_Issued_Info set Status = 'Not Available' where Student_Id = 'SID116';
+
+--DELETE DATA FROM BOOKS_ISSUED_INFO
+
+Delete from Books_Issued_Info where Student_Id In ('SID119','SID120');
+
+--SELECT DATA FROM BOOKS_ISSUED_INFO
+
+select * from Books_Issued_Info;
